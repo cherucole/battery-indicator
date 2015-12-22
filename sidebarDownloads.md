@@ -1,0 +1,1 @@
+  * [Package Download / Donation Form](http://code.google.com/p/battery-indicator/wiki/PackageDownload?tm=2)
